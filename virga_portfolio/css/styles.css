@@ -51,6 +51,11 @@ label {
   margin: 0.75rem 0 0.5rem 1.25rem;
 }
 
+.media-subheading {
+  margin-top: 1rem;
+  margin-bottom: 0.75rem;
+}
+
 nav a {
   color: #d49a6a;
   text-decoration: none;
